@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://www.ans.org/meetings/mines2023/participant/attachment/view-929/" alt="Naval Nuclear Laboratory Logo" width="180" align="right"/>
-  <img src="https://drive.google.com/uc?export=view&id=114YiSHIYcwOVefK4rgyQzTViyRerEDFS" alt="Womanium Logo" width="160" align="left"/>
+  <img src="https://drive.google.com/uc?export=view&id=179xP68Fh2Wm_9oKm2y0iI74zR-TC25N1" alt="Womanium Logo" width="160" align="left"/>
   <img src="https://drive.google.com/uc?export=view&id=1KFfFg0JTgnNDn6GVbV8iymNhzldzevqJ" alt="WISER Logo" width="100" align="left"/>
 </p>
 
