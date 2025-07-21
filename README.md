@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1gco4xivJ4_gVIG9c3X_9hYHNwd772k5b" alt="Womanium Logo" width="100" align="right"/>
+  <img src="https://drive.google.com/uc?export=view&id=1gco4xivJ4_gVIG9c3X_9hYHNwd772k5b" alt="Womanium Logo" width="300" align="right"/>
 </p>
 
 <br/><br/>
