@@ -3,8 +3,7 @@
 </p>
 
 <br/><br/>
-
-# Quantum Walks and Monte Carlo
+<h1 style="color:#1f77b4;">Quantum Walks and Monte Carlo</h1>
 
 ## Team: ------
 
