@@ -1,12 +1,20 @@
-# Quantum Galton Board Simulator
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=ID_114YiSHIYcwOVefK4rgyQzTViyRerEDFS" alt="Naval Nuclear Laboratory Logo" width="180" align="left"/>
+  <img src="https://drive.google.com/uc?export=view&id=1KFfFg0JTgnNDn6GVbV8iymNhzldzevqJ" alt="WISER Logo" width="160" align="right"/>
+  <img src="https://drive.google.com/uc?export=view&id=1KFfFg0JTgnNDn6GVbV8iymNhzldzevqJ" alt="Womanium Logo" width="160" align="right"/>
+</p>
 
-## Team: Qubit Cascade
+<br/><br/>
+
+# Quantum Walks and Monte Carlo
+
+## Team: ------
 
 ### Team Members
 
-- Julio César García — WISER ID: WQ2025-0192  
-- Mirian H. Corona — WISER ID: WQ2025-0276  
-- Ana Noguera — WISER ID: WQ2025-0138  
+- Julio César ... — WISER ID: ...
+- Ana Noguera ... — WISER ID: ...  
+- Mirian Ahuatzi ... — ID: gst-BIBIibpQapXMXhN  
 
 ---
 
