@@ -5,13 +5,13 @@
 <br/><br/>
 <h1 style="color:#004aad;">Quantum Walks and Monte Carlo</h1>
 
-## Team: ------
+## Team: Quantum Walkers 🐈‍⬛
 
 ### Team Members
 
 - Julio Cesar Flores Molina — WISER ID: gst-v6S1tRYrcaFzE4A
 - Ana Noguera ... — WISER ID: ...  
-- Mirian Ahuatzi ... — ID: gst-BIBIibpQapXMXhN  
+- Mirian Ahuatzi Corona — ID: gst-BIBIibpQapXMXhN  
 
 ---
 
