@@ -53,7 +53,6 @@ Through this project, we demonstrate how quantum circuits can serve as compact s
 
 👉 [Click here to view the deck](./Quantum_Galton_Board_QuantumWalkers.pdf)  
 
---
 ## References
 [1] Mark Carney & Ben Varcoe (2022). Universal Statistical Simulator. arXiv:2202.01735. https://doi.org/10.48550/arXiv.2202.01735
 
