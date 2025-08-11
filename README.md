@@ -51,7 +51,7 @@ Through this project, we demonstrate how quantum circuits can serve as compact s
 ---
 ## 🎞 Structured Summary: Implementing the Quantum Galton Board
 
-👉 [Click here to view the deck](./doc.pdf)  
+👉 [Click here to view the deck](./Quantum Galton Board Final_QW.pdf)  
 
 --
 ## References
